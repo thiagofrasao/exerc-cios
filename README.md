@@ -21,6 +21,7 @@ Exemplos de Entrada
 -7
 
 
+
 Exemplos de Saída
 
 X = 19
