@@ -14,7 +14,7 @@
 			
 			System.out.println("X = " + X);
 		
-			
+			sc.close();
 	
 		}
 	
